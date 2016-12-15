@@ -19,3 +19,4 @@ Idea|contents
 Organize financial transactions | Grouping transactions alike will help accountants to allocate transactions.
 Group doucments based on content | FIndind what a list of documents have and the infomration they use.
 Tracking new product features on facebook | finding a company that has introduce a new product
+I can't believe vi works in Windows|I never had it working before
